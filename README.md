@@ -2,4 +2,4 @@
 ColdFire is a node package
 
 # Installation
-npm install codefire
+npm install coldfire
